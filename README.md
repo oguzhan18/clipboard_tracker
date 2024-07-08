@@ -1,6 +1,6 @@
 <h1><p align="center"> Clipboard Tracker </p></h1>
 
-<p align="center"> <img src="./assests/images/screen1.png" height="350"></p>
+<p align="center"> <img src="./assests/images/banner.png" height="350"></p>
 
 ## Overview
 
